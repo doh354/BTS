@@ -132,7 +132,7 @@ Perturbation-based evaluation
 
 Result: Model performance stable across samples.
 
-📊 Scalability Analysis
+ Scalability Analysis
 Strong Scaling
 
 Measured:
@@ -198,7 +198,7 @@ Training time analysis
 
 Performance vs partitions
 
-🔎 Spark UI Evidence
+ Spark UI Evidence
 
 Spark UI used to validate:
 
